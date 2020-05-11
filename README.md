@@ -1,4 +1,4 @@
-# QueryLikelyhoodModal
+# QueryLikelyhoodModel
 Example of query Likelyhood modal
 
 D1="click go the shears boys click click click"
