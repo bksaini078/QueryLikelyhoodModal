@@ -1,5 +1,5 @@
 # QueryLikelyhoodModel
-Example of query Likelyhood modal
+Example of query Likelyhood model
 
 D1="click go the shears boys click click click"
 D2="click click"
